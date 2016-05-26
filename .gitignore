@@ -1,0 +1,15 @@
+*.class
+bin/
+out/
+gen/
+.gradle/
+build/
+.DS_Store
+*.log
+libs
+logs
+target
+.classpath
+.project
+.settings
+.atomignore
